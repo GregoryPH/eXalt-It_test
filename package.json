@@ -1,0 +1,18 @@
+{
+  "name": "exalt-it-katas-nodejs",
+  "version": "1.0.0",
+  "description": "Exalt IT Katas NodeJS ",
+  "scripts": {
+    "run_bigparsing_confirmed": "node bigparsing_confirmed",
+    "run_data_correction_junior": "node data_correction_junior"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "jsonbox-node": "^1.0.7",
+    "node-fetch": "^2.6.1"
+  }
+}
